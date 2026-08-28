@@ -1,5 +1,7 @@
 # Plugin.Maui.Diagnostics
 
+[![NuGet](https://img.shields.io/nuget/v/Plugin.Maui.Diagnostics.svg?label=NuGet)](https://www.nuget.org/packages/Plugin.Maui.Diagnostics)
+
 A production diagnostics SDK for **.NET MAUI** on **iOS** and **Android**.
 
 Not just logging.
@@ -18,6 +20,8 @@ Capture crash, ANR / application freeze, unhandled exceptions, network failures,
 ```
 
 ## Install
+
+Package: [https://www.nuget.org/packages/Plugin.Maui.Diagnostics](https://www.nuget.org/packages/Plugin.Maui.Diagnostics)
 
 ```bash
 dotnet add package Plugin.Maui.Diagnostics

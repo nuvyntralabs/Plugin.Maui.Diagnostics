@@ -1,5 +1,9 @@
 # Changelog
 
+## 1.0.1
+
+- Add the NuGet package link and badge to the README
+
 ## 1.0.0
 
 - Production diagnostics SDK for .NET MAUI on iOS and Android
