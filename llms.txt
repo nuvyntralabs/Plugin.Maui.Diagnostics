@@ -5,7 +5,7 @@ Production diagnostics for .NET MAUI: crash, ANR/freeze, unhandled exceptions, a
 Repository: https://github.com/NiladriPadhy/Plugin.Maui.Diagnostics
 NuGet: https://www.nuget.org/packages/Plugin.Maui.Diagnostics
 Paper: https://niladripadhy.vercel.app/opensource/plugin-maui-diagnostics
-Catalog: https://github.com/NiladriPadhy/NugetWorld
+Catalog: https://github.com/NiladriPadhy/MauiEssentials
 License: MIT
 
 ## Supported versions

@@ -18,9 +18,9 @@
     <PackageId>Plugin.Maui.Diagnostics</PackageId>
     <Title>.NET MAUI Diagnostics — crash, ANR, breadcrumbs</Title>
     <Description>Production diagnostics for .NET MAUI on iOS and Android: crash, ANR, unhandled exceptions, network and API failures, device context, and a persisted "what happened before the crash" timeline.</Description>
-    <PackageTags>dotnet-maui;maui;maui-plugin;maui-utilities;cross-platform;android;ios;nuget;nugetworld;crash;anr;diagnostics;breadcrumbs;unhandled-exception;freeze;reporting</PackageTags>
+    <PackageTags>dotnet-maui;maui;maui-plugin;maui-utilities;cross-platform;android;ios;nuget;mauiessentials;crash;anr;diagnostics;breadcrumbs;unhandled-exception;freeze;reporting</PackageTags>
     <Authors>Niladri</Authors>
-    <Company>NugetWorld</Company>
+    <Company>MauiEssentials</Company>
     <Copyright>Copyright © 2026 Niladri</Copyright>
     <PackageLicenseExpression>MIT</PackageLicenseExpression>
     <PackageReadmeFile>README.md</PackageReadmeFile>
