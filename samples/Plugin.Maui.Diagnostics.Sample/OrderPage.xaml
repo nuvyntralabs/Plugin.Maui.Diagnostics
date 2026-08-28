@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Plugin.Maui.Diagnostics.Sample.OrderPage"
+             Title="Order Screen">
+
+    <VerticalStackLayout Padding="24" Spacing="12">
+        <Label Text="Order Screen" FontSize="22" FontAttributes="Bold" />
+        <Label Text="Opening this page records Last Screen = Order Screen on the diagnostic report."
+               TextColor="Gray" />
+        <Button Text="User action: change quantity" Clicked="OnQuantityClicked" />
+        <Label x:Name="StatusLabel" Text="Ready." />
+    </VerticalStackLayout>
+</ContentPage>
