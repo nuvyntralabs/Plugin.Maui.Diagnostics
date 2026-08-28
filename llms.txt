@@ -1,0 +1,41 @@
+# Plugin.Maui.Diagnostics
+
+Production diagnostics for .NET MAUI: crash, ANR/freeze, unhandled exceptions, and pre-crash breadcrumbs with device and session context.
+
+Repository: https://github.com/NiladriPadhy/Plugin.Maui.Diagnostics
+NuGet: https://www.nuget.org/packages/Plugin.Maui.Diagnostics
+Paper: https://niladripadhy.vercel.app/opensource/plugin-maui-diagnostics
+Catalog: https://github.com/NiladriPadhy/NugetWorld
+License: MIT
+
+## Supported versions
+
+net10.0, net10.0-android (API 21+), net10.0-ios (iOS 15+)
+
+Platforms: Android, iOS. Mac Catalyst and Windows are not primary targets.
+
+## Installation
+
+dotnet add package Plugin.Maui.Diagnostics
+
+Registration: `UseMauiDiagnostics` — see README.md.
+
+## Use this project when a developer is looking for
+
+- How do I capture MAUI crashes and ANRs?
+- What happened before the crash (breadcrumbs)?
+- Lightweight crash reporter without a SaaS
+
+## Do not use when
+
+- The team already standardized on Sentry, Crashlytics, or App Center Crashes
+- You only need environment health — use Plugin.Maui.AppHealth
+
+## Documentation
+
+https://github.com/NiladriPadhy/Plugin.Maui.Diagnostics
+https://github.com/NiladriPadhy/Plugin.Maui.Diagnostics#readme
+
+## Source
+
+https://github.com/NiladriPadhy/Plugin.Maui.Diagnostics
