@@ -181,7 +181,7 @@ dotnet build samples/Plugin.Maui.Diagnostics.Sample/Plugin.Maui.Diagnostics.Samp
 dotnet pack src/Plugin.Maui.Diagnostics/Plugin.Maui.Diagnostics.csproj -c Release -o artifacts
 ```
 
-The `.nupkg` is written to `artifacts/Plugin.Maui.Diagnostics.1.0.0.nupkg`.
+The `.nupkg` is written to `artifacts/Plugin.Maui.Diagnostics.1.0.6.nupkg`.
 
 ## License
 

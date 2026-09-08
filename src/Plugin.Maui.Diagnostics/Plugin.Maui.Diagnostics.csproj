@@ -27,8 +27,8 @@
     <PackageProjectUrl>https://nuvyntralabs.github.io/packages/plugin-maui-diagnostics/</PackageProjectUrl>
     <RepositoryUrl>https://github.com/nuvyntralabs/Plugin.Maui.Diagnostics</RepositoryUrl>
     <RepositoryType>git</RepositoryType>
-    <Version>1.0.5</Version>
-    <PackageReleaseNotes>Point PackageProjectUrl at the Nuvyntra Labs package page.</PackageReleaseNotes>
+    <Version>1.0.6</Version>
+    <PackageReleaseNotes>Align the README pack path with the shipped package version.</PackageReleaseNotes>
     <IncludeSymbols>true</IncludeSymbols>
     <SymbolPackageFormat>snupkg</SymbolPackageFormat>
     <PublishRepositoryUrl>true</PublishRepositoryUrl>
