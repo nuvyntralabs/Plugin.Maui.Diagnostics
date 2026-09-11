@@ -7,7 +7,7 @@ Production diagnostics for .NET MAUI: crash, ANR/freeze, unhandled exceptions, a
 - Package: `Plugin.Maui.Diagnostics`
 - NuGet: https://www.nuget.org/packages/Plugin.Maui.Diagnostics
 - GitHub: https://github.com/nuvyntralabs/Plugin.Maui.Diagnostics
-- Paper: https://niladripadhy.vercel.app/opensource/plugin-maui-diagnostics
+- Paper: https://nuvyntralabs.github.io/packages/plugin-maui-diagnostics/
 - Catalog: https://github.com/nuvyntralabs/MauiEssentials
 - Versions: net10.0, net10.0-android (API 21+), net10.0-ios (iOS 15+)
 
